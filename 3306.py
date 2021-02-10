@@ -28,6 +28,6 @@ def  baopo():
 if __name__ == '__main__':
     print('---------------')
     print('powered by YanXia')
-    print('By T00ls.Net:www.t00ls.net')
+    print('By YX‘blog：www.535yx.cn')
     print('---------------')
     baopo()
